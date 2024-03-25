@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.23.3",
-    "@babel/plugin-proposal-decorators": "^7.23.5",
+    "@babel/plugin-proposal-decorators": "^7.24.1",
     "@commitlint/cli": "^18.4.3",
     "@commitlint/config-conventional": "^18.4.3",
     "@nestjs/cli": "^10.2.1",
